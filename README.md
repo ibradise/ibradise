@@ -2,7 +2,7 @@
 
 **Software Engineering Student | Full-Stack Developer**
 
-I'm a Software Engineering student focused on building practical, scalable web applications and becoming a strong full-stack software engineer.
+I'm a Software Engineering student focused on building practical, scalable web and Mobile applications and becoming a strong full-stack software engineer.
 
 ### 🚀 What I'm Working On
 
@@ -16,10 +16,10 @@ I'm a Software Engineering student focused on building practical, scalable web a
 ### 🛠️ Technologies
 
 **Languages:**
-TypeScript · JavaScript · Python · SQL
+TypeScript · JavaScript · Python · SQL · dart 
 
 **Frontend:**
-React · Next.js
+React · Next.js · Flutter
 
 **Backend:**
 Node.js · Express · REST APIs
